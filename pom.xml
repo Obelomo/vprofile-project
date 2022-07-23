@@ -158,8 +158,8 @@
     </build>
 	<repositories>
     <repository>
-      <id>${NEXUS-GRP-REPO}</id>
-      <url>http://${NEXUSIP}:${NEXUSPORT}/repository/${NEXUS-GRP-REPO}/</url>
+      <id>vprofile_pract_proxy</id>
+      <url>http://172.31.45.116/repository/vprofile_pract_proxy//</url>
     </repository>
   </repositories>
 </project>
