@@ -159,7 +159,7 @@
 	<repositories>
     <repository>
       <id>vprofile_pract_proxy</id>
-      <url>http://172.31.45.116/repository/vprofile_pract_proxy//</url>
+      <url>http://172.31.45.116:80/repository/vprofile_pract_proxy//</url>
     </repository>
   </repositories>
 </project>
