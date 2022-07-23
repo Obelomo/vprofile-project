@@ -14,7 +14,7 @@ rm -rf /usr/local/tomcat8/conf/tomcat-users.xml
 rm -rf /usr/local/tomcat8/webapps/manager/META-INF/context.xml
 touch /usr/local/tomcat8/webapps/manager/META-INF/context.xml
 touch /usr/local/tomcat8/conf/tomcat-users.xml
-cat <<EOT>> /usr/local/tomcat8/conf/tomcat-users.xml
+cat <<EOT>> /usr/local/tomcat8/conf/tomcat-users.xml 
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Licensed to the Apache Software Foundation (ASF) under one or more
